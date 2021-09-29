@@ -26,6 +26,12 @@ The mission of this repository is to provide a collection of free & paid resourc
 
 <br>
 
+## GNU/Linux:
+- GNU/Linux is a free and highly customizable operating system used by computer science enthusiasts.
+
+| CATEGORY | SOURCE & TYPE | LINK & TITLE | PRICE | DIFFICULTY RATING |
+| :--: | :--: | :--: | :--: | :--: |
+
 ## Web-Development (HTML/CSS/JS):
 - Web development will introduce you to basic coding syntax and the inner workings of the World Wide Web!
 
