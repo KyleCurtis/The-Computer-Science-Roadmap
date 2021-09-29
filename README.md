@@ -29,6 +29,15 @@ The mission of this repository is to provide a collection of free & paid resourc
 
 <br>
 
+
+## Computer Hardware:
+- Learning how computers work at a hardware level is essential to understanding the science of computers.
+
+| CATEGORY | SOURCE & TYPE | LINK & TITLE | PRICE | DIFFICULTY RATING |
+| :--: | :-- | :-- | :--: | :--: |
+
+<br>
+
 ## GNU/Linux:
 - GNU/Linux is a free and highly customizable operating system used by computer science enthusiasts.
 
