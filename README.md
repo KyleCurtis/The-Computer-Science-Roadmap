@@ -14,9 +14,10 @@ The mission of this repository is to provide a collection of free & paid resourc
 
 | CATEGORY | SOURCE & TYPE | LINK & TITLE | PRICE | DIFFICULTY RATING |
 | :--: | :-- | :-- | :--: | :--: |
-| Introduction | Web Video | [Harvard College: This is CS50]() | FREE | EASY/MEDIUM |
-| Introduction | YouTube Playlist | [CrashCourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) | FREE | EASY |
+| Introduction | Web Video | [Harvard College: This is CS50]() | FREE | EASY |
+| Introduction | YouTube Video | [DoS-Domain Of Science: The Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) | FREE | EASY |
 | Introduction | YouTube Video | [FreeCodeCamp: Introduction to Programming and Computer Science](https://www.youtube.com/watch?v=zOjov-2OZ0E) | FREE | EASY |
+| Introduction | YouTube Playlist | [CrashCourse: Computer Science](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) | FREE | EASY |
 
 <br>
 
